@@ -1,0 +1,46 @@
+(module TL3315NFxxxQ (layer F.Cu) (tedit 5E02641D)
+  (attr smd)
+  (fp_text reference REF** (at 0.26 -3.69) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value TL3315NFxxxQ (at 0.98 -6.24) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (pad 1 smd custom (at 0 0) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.35 0.55) (xy -0.35 -0.55) (xy -0.15 -0.55) (xy -0.15 -0.35) (xy 0.35 -0.35)
+         (xy 0.35 0.35) (xy -0.15 0.35) (xy -0.15 0.55)) (width 0.01))
+    ))
+  (pad 2 smd custom (at 4.45 0 180) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.35 0.55) (xy -0.35 -0.55) (xy -0.15 -0.55) (xy -0.15 -0.35) (xy 0.35 -0.35)
+         (xy 0.35 0.35) (xy -0.15 0.35) (xy -0.15 0.55)) (width 0.01))
+    ))
+  (pad 4 smd custom (at 4.45 3.5 180) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.35 0.55) (xy -0.35 -0.55) (xy -0.15 -0.55) (xy -0.15 -0.35) (xy 0.35 -0.35)
+         (xy 0.35 0.35) (xy -0.15 0.35) (xy -0.15 0.55)) (width 0.01))
+    ))
+  (pad 3 smd custom (at 0 3.5) (size 0.5 0.5) (layers F.Cu F.Paste F.Mask)
+    (zone_connect 0)
+    (options (clearance outline) (anchor rect))
+    (primitives
+      (gr_poly (pts
+         (xy -0.35 0.55) (xy -0.35 -0.55) (xy -0.15 -0.55) (xy -0.15 -0.35) (xy 0.35 -0.35)
+         (xy 0.35 0.35) (xy -0.15 0.35) (xy -0.15 0.55)) (width 0.01))
+    ))
+  (model ${KIPRJMOD}/../lib/models/TL3315NFxxxQ.stp
+    (offset (xyz 2.225 -1.75 0.28))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+)
