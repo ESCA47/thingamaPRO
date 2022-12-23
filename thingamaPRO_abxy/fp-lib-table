@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "procon_gcc")(type "KiCad")(uri "${KIPRJMOD}/../lib/modules/procon_gcc.pretty")(options "")(descr ""))
+  (lib (name "PhobGCC_Footprints")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/brokePhob/PhobGCC_Footprints.pretty")(options "")(descr ""))
+  (lib (name "silk")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/Jab65/silk.pretty")(options "")(descr ""))
+)
