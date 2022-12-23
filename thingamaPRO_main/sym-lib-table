@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "gcc")(type "Legacy")(uri "${KIPRJMOD}/../lib/symbols/gcc.lib")(options "")(descr ""))
+  (lib (name "procon_gcc-rescue")(type "Legacy")(uri "${KIPRJMOD}/procon_gcc-rescue.lib")(options "")(descr ""))
+  (lib (name "procon_gcc_main_pcb-rescue")(type "Legacy")(uri "${KIPRJMOD}/procon_gcc_main_pcb-rescue.lib")(options "")(descr ""))
+  (lib (name "PhobGCC_Symbol_Library")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/brokePhob/PhobGCC_Symbol_Library.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4085-GF-A_REVA")(type "Legacy")(uri "C:/Users/esca/Documents/GitHub/getawayvan/USB4085-GF-A_REVA.pretty/USB4085-GF-A_REVA.lib")(options "")(descr ""))
+)

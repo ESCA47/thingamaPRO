@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name "procon_gcc")(type "KiCad")(uri "${KIPRJMOD}/../lib/modules/procon_gcc.pretty")(options "")(descr ""))
+  (lib (name "PhobGCC_Footprints")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/brokePhob/PhobGCC_Footprints.pretty")(options "")(descr ""))
+  (lib (name "alps")(type "Eagle")(uri "C:/Users/esca/Documents/GitHub/probotch/lib/ALPS - RKJXV1224005.lbr")(options "")(descr ""))
+  (lib (name "dips")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/digisolo/dips.pretty")(options "")(descr ""))
+  (lib (name "USB4085-GF-A_REVA")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/getawayvan/USB4085-GF-A_REVA.pretty")(options "")(descr ""))
+  (lib (name "silk")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/Jab65/silk.pretty")(options "")(descr ""))
+  (lib (name "PhobGCC_2_0_0_footprints")(type "KiCad")(uri "C:/Users/esca/Documents/GitHub/PhobGCCv2-HW-main/PCB/KiCAD/PhobGCC_2_0_0_footprints.pretty")(options "")(descr ""))
+)
