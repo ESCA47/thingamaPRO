@@ -1,4 +1,4 @@
-20642840811717589
+20644509901847242
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -86834,6 +86834,13 @@ pad
 0
 0
 0
+dips
+switch_C381098
+
+
+0
+6
+3
 dips
 test1
 
