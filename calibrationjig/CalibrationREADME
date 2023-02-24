@@ -1,0 +1,36 @@
+#Calibration Jigs and How to use them
+
+These jigs are a wip and I can't be assed to do more than i have currently since its good enough.
+
+Main things:
+
+the screw hole on the main one is too high up so you probably want to trim parallel to the actual wall and that way you can place it on the screw with some security
+
+the jigs should just sit on the board and if you put downwards pressure it will only help them stay in place
+
+
+Calibration:
+1.Calibrate main stick like you would normally once to get the physical points. skip firefox angles as you wont get accurate readings now.
+
+2.Recalibrate again and when you get to the firefox angles aim your stick for .2350 and calibrate those points for all 8 possible angles, this gets a much closer deadzone
+to oem switch pro and plays better
+
+3. Top gates you want to shift down to .65ish or so as the up b range is not 1 to 1 and the higher gates are incredibly finnicky(this is the on that i havent gotten down)
+
+4.Bottom gates you just calibrate to .6750 or whatever and that will feel one to one for the most part.
+
+5.Ignore the values of the FF notches as those are only for deadzone reasons(teleport players will thank you)
+
+PS: If you want to mess with the calibration values remember that the jig is always the same physical point so you arent shifting that but instead changing what
+the corner value will hit
+
+Cstick
+1. Calibrate all 8 points as normal
+
+2. Top gates you want to set them to .55, gcc cstick makes everything past the diagonal uptilt so you need to be incredibly precise on angled ftilts and moving the
+value down gives you that extra leeway you need to convert switch pro muscle memory to phob
+
+3. Bottom gates you just calibate to .6750 and that will be fine
+
+If you do any edits to jig to make it easier to use or found some calibration info, definitely dm me as im interested to get that aspect down pat to make this less of a
+mystery/pain in the ass.
